@@ -16,6 +16,10 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
+      "permissions": ["INTERNET", "ACCESS_NETWORK_STATE"],
+      "config": {
+        "cleartextTraffic": true
+      },
       "package": "com.karman_singh_01.myecommerceapp"
     },
     "web": {

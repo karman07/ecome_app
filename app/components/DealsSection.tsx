@@ -4,7 +4,7 @@ const DealsSection: React.FC = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Deals for Days</Text>
-      <Image source={require("../../assets/pic/burger.webp")} style={styles.image} />
+      <Image source={require("../../assets/pic/details.webp")} style={styles.image} />
     </View>
   );
 };
@@ -25,5 +25,6 @@ const styles = StyleSheet.create({
     height: 150,
     borderRadius: 10,
     marginTop: 10,
+    resizeMode: "cover" 
   },
 });
