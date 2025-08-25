@@ -8,6 +8,9 @@ export interface MenuItem {
     crusine: string;
     weight: string;
     calories: string;
+    glbFileUrl: string;
+    usdzFileUrl: string;
+    restaurantName: string | null;
   }
   
   

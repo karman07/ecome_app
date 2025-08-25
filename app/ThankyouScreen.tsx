@@ -43,3 +43,4 @@ const styles = StyleSheet.create({
   subText: { fontSize: 16, color: "#666", textAlign: "center", marginVertical: 10 },
   homeText: { fontSize: 18, color: "#6594dc", marginTop: 20 },
 });
+//Good

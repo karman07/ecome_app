@@ -1,1 +1,1 @@
-export const BASE_URL = "https://ecome-7.onrender.com"
+export const BASE_URL = "https://dine3d.com/api";
